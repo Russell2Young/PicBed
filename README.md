@@ -1,4 +1,4 @@
 # PicBed
 图床仓库
 ## PicGo的token
-`d98e452fd0e11da2b7b241562426c57fc8fee419`
+`8ce22559c969a314e84751e3d70fcb5bbd4e92cd`
